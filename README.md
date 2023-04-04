@@ -1,6 +1,6 @@
 ### Olá,como vai? 👋
 
-- 🔭 Estudando Python 🐍
+- 🔭 Estudando Javascript
 - 🌱 Estudante de análise e desenvolvimento de sistemas 📘 - Unilavras.
 
 <div align="center">
