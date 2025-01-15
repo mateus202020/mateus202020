@@ -1,7 +1,7 @@
 ### Olá,como vai? 👋
 
 - 🔭 Estudando Javascript
-- 🌱 Estudante de análise e desenvolvimento de sistemas 📘 - Unilavras.
+- 🌱 Formado em análise e desenvolvimento de sistemas 📘 - Unilavras.
 
 <div align="center">
   <a href="https://github.com/mateus202020">
